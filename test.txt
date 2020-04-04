@@ -1,0 +1,13 @@
+print(something)
+while(something){
+blah
+for(Some other thing){
+blah- di- blu
+blah
+blah
+}
+blah
+blah
+}
+otherwise come out and do something
+

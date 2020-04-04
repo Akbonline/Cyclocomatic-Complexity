@@ -1,0 +1,53 @@
+import matplotlib.pyplot as plt
+#CC is also equal to “the number of regions of the flow graph”
+import time
+import networkx as nx
+L = ["Geeks\n", "for\n", "Geeks\n"] 
+G = nx.DiGraph()
+G.add_node("Start")
+G.add_node("Exit")   #Adding an Exit state
+file1 = open('test.txt', 'r') 
+Lines = file1.readlines() 
+stack=[]
+start=1
+count = 0
+nobp=0
+#Strips the newline character 
+print("Start")
+for line in Lines:
+    count+=1    #Counting each line
+    G.add_node("State "+str(count))   #Adding a new state
+    if start:
+        G.add_edge("Start", "State "+str(count))
+        start=0
+    print("State "+str(count)+":"),
+    for i in line.strip():
+        print(i), 
+        if(i=="{"):
+            nobp+=1
+            stack.append("State "+str(count))
+            G.add_edge("State "+str(count),"State "+str(count+1),edge_labels="True")
+            continue
+        if(i=="}"):
+            temp=stack.pop()
+            G.add_edge(temp,"State "+str(count+1),edge_labels="False")
+            G.add_edge("State "+str(count),temp,edge_labels="Loopback")
+            continue
+        G.add_edge("State "+str(count),"State "+str(count+1))
+            
+    print("")
+    #print("Line{}: {}".format(count, line.strip())) 
+print("Exit")
+G.add_edge("State "+str(count),"Exit")
+CC_algo1=((G.number_of_edges()-2)-(G.number_of_nodes()-2))+2
+CC_algo3=nobp+1
+print("\n\n")
+print("Cyclocomatic Complexity Using the formula: Num of Edges - Num of Vertices + 2*C: "+str(CC_algo1)+"\n"+"Cyclocomatic Complexity Using the conditionals:"+str(CC_algo3))
+list(nx.find_cycle(G, orientation='ignore'))   #Looking for any cycles in the Graph(To calculate the Regions of the graph)
+G2 = G.to_undirected()
+print(nx.cycle_basis(G2, "Start"))   #Lists the cycles in the graph
+print("Cyclocomatic Complexity Using the algo 3: "+str(len(nx.cycle_basis(G2, "Start"))+1))   #Prints the number of cycles in the graph
+fixed_positions = {"Start":(3,4),"Exit":(1,2)}#dict with two of the positions set
+fixed_nodes = fixed_positions.keys()
+pos = nx.spring_layout(G,pos=fixed_positions, fixed = fixed_nodes)
+nx.draw(G,pos, with_labels=True, node_size=1000, node_color="skyblue", alpha=0.5, linewidths=20)
