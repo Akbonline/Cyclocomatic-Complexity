@@ -2,7 +2,7 @@ import networkx as nx
 
 # Function calculates Cyclomatic Complexity of a graph representing code
 # Input:  A NetworkX graph
-# Output:  AN integer
+# Output:  An integer representing the cyclomatic complexity
 # The formula:
 #       # of edges + # of nodes + 2 * # of connected components in the graph
 # Source:  https://0-ieeexplore.ieee.org.pacificatclassic.pacific.edu/document/1702388
