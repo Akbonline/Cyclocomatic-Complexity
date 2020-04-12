@@ -1,0 +1,1091 @@
+print(Hello)
+while(something) {
+print(Hello)
+for(something) {
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+x = 1
+x = 1
+x = 1
+print(Hello)
+x = 1
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+x = 1
+x = 1
+x = 1
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(Hello)
+x = 1
+x = 1
+x = 1
+print(Hello)
+print(Hello)
+x = 1
+print(Hello)
+print(Hello)
+print(Hello)
+x = 1
+x = 1
+print(this is a dummy program)
+x = 1
+}
+print(this is a dummy program)
+for(something) {
+x = 1
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(Hello)
+print(Hello)
+print(Hello)
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+print(Hello)
+x = 1
+print(this is a dummy program)
+x = 1
+x = 1
+x = 1
+print(Hello)
+print(Hello)
+x = 1
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+x = 1
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+x = 1
+x = 1
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+x = 1
+x = 1
+print(Hello)
+x = 1
+x = 1
+x = 1
+print(this is a dummy program)
+}
+x = 1
+x = 1
+print(Hello)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+x = 1
+print(Hello)
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+x = 1
+print(this is a dummy program)
+x = 1
+print(Hello)
+x = 1
+print(Hello)
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+print(Hello)
+x = 1
+x = 1
+print(Hello)
+x = 1
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+x = 1
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+}
+x = 1
+print(Hello)
+print(this is a dummy program)
+if(something) {
+while(something) {
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+x = 1
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+x = 1
+x = 1
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+x = 1
+x = 1
+print(Hello)
+x = 1
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(Hello)
+x = 1
+print(Hello)
+x = 1
+print(Hello)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+x = 1
+x = 1
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+}
+for(something) {
+print(this is a dummy program)
+print(Hello)
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+x = 1
+x = 1
+x = 1
+x = 1
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+x = 1
+print(Hello)
+print(this is a dummy program)
+x = 1
+x = 1
+x = 1
+x = 1
+x = 1
+x = 1
+x = 1
+print(Hello)
+print(Hello)
+print(Hello)
+x = 1
+print(this is a dummy program)
+x = 1
+print(Hello)
+x = 1
+print(this is a dummy program)
+x = 1
+x = 1
+print(Hello)
+x = 1
+print(Hello)
+x = 1
+x = 1
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(Hello)
+}
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+x = 1
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(Hello)
+x = 1
+print(Hello)
+x = 1
+print(Hello)
+print(this is a dummy program)
+x = 1
+x = 1
+x = 1
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+x = 1
+x = 1
+x = 1
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+x = 1
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+print(Hello)
+x = 1
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(Hello)
+}
+for(something) {
+print(this is a dummy program)
+while(something) {
+x = 1
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+x = 1
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+x = 1
+x = 1
+print(Hello)
+print(this is a dummy program)
+x = 1
+x = 1
+x = 1
+print(Hello)
+x = 1
+print(Hello)
+print(Hello)
+x = 1
+x = 1
+print(Hello)
+print(Hello)
+x = 1
+x = 1
+print(Hello)
+x = 1
+x = 1
+print(Hello)
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+}
+while(something) {
+x = 1
+print(Hello)
+print(Hello)
+x = 1
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+x = 1
+x = 1
+print(this is a dummy program)
+x = 1
+print(Hello)
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+print(Hello)
+x = 1
+x = 1
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+x = 1
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+x = 1
+}
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+x = 1
+print(Hello)
+x = 1
+x = 1
+print(this is a dummy program)
+x = 1
+print(Hello)
+x = 1
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+x = 1
+x = 1
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+x = 1
+}
+x = 1
+print(this is a dummy program)
+for(something) {
+while(something) {
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+x = 1
+print(this is a dummy program)
+print(Hello)
+x = 1
+x = 1
+x = 1
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+x = 1
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+x = 1
+x = 1
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(Hello)
+x = 1
+}
+x = 1
+while(something) {
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+print(Hello)
+print(Hello)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+x = 1
+x = 1
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+x = 1
+x = 1
+print(this is a dummy program)
+print(Hello)
+x = 1
+print(Hello)
+print(Hello)
+print(Hello)
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+}
+x = 1
+x = 1
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+print(Hello)
+x = 1
+print(Hello)
+x = 1
+x = 1
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+x = 1
+print(Hello)
+x = 1
+x = 1
+print(Hello)
+print(Hello)
+print(Hello)
+x = 1
+x = 1
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+x = 1
+x = 1
+print(Hello)
+x = 1
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+}
+x = 1
+x = 1
+x = 1
+print(Hello)
+print(Hello)
+print(Hello)
+while(something) {
+while(something) {
+x = 1
+x = 1
+x = 1
+x = 1
+print(Hello)
+x = 1
+x = 1
+x = 1
+x = 1
+print(this is a dummy program)
+x = 1
+print(Hello)
+x = 1
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+x = 1
+x = 1
+print(this is a dummy program)
+print(Hello)
+x = 1
+x = 1
+print(Hello)
+x = 1
+x = 1
+print(Hello)
+print(Hello)
+x = 1
+print(Hello)
+x = 1
+x = 1
+x = 1
+print(Hello)
+x = 1
+print(Hello)
+print(Hello)
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+}
+x = 1
+x = 1
+x = 1
+print(this is a dummy program)
+for(something) {
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+x = 1
+print(Hello)
+x = 1
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(Hello)
+x = 1
+print(this is a dummy program)
+print(Hello)
+x = 1
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(Hello)
+x = 1
+x = 1
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+x = 1
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+}
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+x = 1
+x = 1
+x = 1
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(Hello)
+x = 1
+print(Hello)
+print(Hello)
+print(Hello)
+x = 1
+x = 1
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+print(Hello)
+x = 1
+print(Hello)
+print(this is a dummy program)
+x = 1
+x = 1
+print(this is a dummy program)
+x = 1
+}
+while(something) {
+print(Hello)
+for(something) {
+x = 1
+x = 1
+print(this is a dummy program)
+x = 1
+print(Hello)
+x = 1
+x = 1
+print(Hello)
+x = 1
+x = 1
+print(Hello)
+print(Hello)
+x = 1
+x = 1
+x = 1
+print(Hello)
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(Hello)
+x = 1
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+x = 1
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(Hello)
+x = 1
+x = 1
+x = 1
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+x = 1
+x = 1
+print(this is a dummy program)
+print(Hello)
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+}
+x = 1
+while(something) {
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(Hello)
+x = 1
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+x = 1
+x = 1
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+x = 1
+x = 1
+x = 1
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+}
+x = 1
+print(this is a dummy program)
+print(Hello)
+x = 1
+print(this is a dummy program)
+x = 1
+print(Hello)
+x = 1
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(this is a dummy program)
+x = 1
+x = 1
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+x = 1
+x = 1
+print(Hello)
+x = 1
+print(Hello)
+x = 1
+print(this is a dummy program)
+x = 1
+x = 1
+print(Hello)
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+x = 1
+x = 1
+}
+if(something) {
+if(something) {
+print(Hello)
+x = 1
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+print(Hello)
+print(Hello)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(Hello)
+x = 1
+x = 1
+x = 1
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+x = 1
+print(Hello)
+print(this is a dummy program)
+x = 1
+x = 1
+x = 1
+print(this is a dummy program)
+x = 1
+print(this is a dummy program)
+print(Hello)
+x = 1
+x = 1
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(Hello)
+x = 1
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+}
+while(something) {
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+x = 1
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+x = 1
+x = 1
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(Hello)
+x = 1
+print(Hello)
+x = 1
+print(Hello)
+print(Hello)
+x = 1
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(Hello)
+x = 1
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+x = 1
+print(Hello)
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+}
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+x = 1
+print(Hello)
+x = 1
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+x = 1
+x = 1
+print(Hello)
+x = 1
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+print(Hello)
+print(Hello)
+print(Hello)
+print(Hello)
+x = 1
+print(this is a dummy program)
+print(this is a dummy program)
+x = 1
+x = 1
+x = 1
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+print(this is a dummy program)
+print(Hello)
+print(Hello)
+print(Hello)
+print(Hello)
+print(Hello)
+}
+print(Hello)
