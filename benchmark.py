@@ -8,6 +8,7 @@ import Algorithm_3
 import networkx as nx
 import csv
 
+# Usage python3 benchmark.py [name of code file] [number of runs for average]
 def time_mccabe(G,outFile):
     start = time.time()
     McCabe_algo.Mccabe_Complexity(G.to_undirected())

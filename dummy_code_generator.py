@@ -3,6 +3,7 @@
 import sys
 import random
 
+## Usage python3 dummy_code_generator.py [num_lines] [name of output file]
 indivisible_cmds = ["print(Hello)","x = 1","print(this is a dummy program)"]
 branch_cmds = ["for(something) {","while(something) {","if(something) {"]
 MAX_NEST = 1
